@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-# HTML/CSS Cristian David
+# HTML/CSS
 
 
 #### Fundamentos
